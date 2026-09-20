@@ -1,2 +1,2 @@
 # Project
-It's a full stack project
+It's a full stack project.
